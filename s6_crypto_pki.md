@@ -24,7 +24,7 @@
     ![image-20201107003408196](assets/image-20201107003408196.png)
 11. **Diffusion**: Changing one character causes the plaintext to drastically change the outputted cipher.
 12. **Confusion**: The cipher doesn't look anything like the plain text.
-13. **Collision**: Two completely different pieces of data have the exact same hash.
+13. **Collision**: Two completely different pieces of data have the exact same hash.//
 14. **Steganography**: Hides messages or code inside of an image or another type of data. Impossible to decipher without the correct tools.
 15. **Obfuscation**: Taking something and making it difficult for a human to understand, however it is not impossible to convert it back to the original form.
 16. **Stream vs. block**: Stream ciphers encrypt data 1 bit at a time (High speed). Block ciphers encrypt data in blocks.
